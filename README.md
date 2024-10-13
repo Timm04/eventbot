@@ -1,0 +1,2 @@
+# eventbot
+TheMoeWay Event bot
